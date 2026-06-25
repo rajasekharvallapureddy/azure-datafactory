@@ -1,0 +1,15 @@
+{
+	"name": "raj2012",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3e4f626e-2cc3-4bc5-8d31-bccfeb150b4c",
+		"tenantId": "1dd59e48-1917-4055-86a3-bae27a60b154"
+	}
+}

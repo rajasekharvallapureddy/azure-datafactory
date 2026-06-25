@@ -1,0 +1,6 @@
+{
+	"name": "rajselfhosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
